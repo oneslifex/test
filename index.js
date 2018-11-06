@@ -6,3 +6,4 @@ git/test: 최과장작업
 workspace/git/test:김차장작업
 git/test: 최과장작업(머지테스트1)
 workspace/git/test:로컬(머지테스트)
+로걸:머지테스트
